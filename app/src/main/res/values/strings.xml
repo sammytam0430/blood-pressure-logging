@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tam, Corcoran</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="systolic_reading">Systolic Reading</string>
+    <string name="diastolic_reading">Diastolic Reading</string>
+    <string name="condition">Condition</string>
+    <string name="add_reading">Add Reading</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="avgTitle">Title</string>
+    <string name="average_systolic">Average Systolic</string>
+    <string name="average_diastolic">Average Diastolic</string>
+    <string name="average_condition">Average Condition</string>
+    <string name="user_id">User ID</string>
+</resources>
